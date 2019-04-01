@@ -1,5 +1,7 @@
 # LuaTalk
 
+![](https://raw.githubusercontent.com/Sygmei/LuaTalk/master/resources/banner.png)
+
 ## Summary
 
 - ### Introduction
