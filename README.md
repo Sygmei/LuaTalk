@@ -74,7 +74,34 @@
 - ### Conclusion
     - [Slide 45 : Conclusion](https://raw.githubusercontent.com/Sygmei/LuaTalk/master/slides/Diapositive45.PNG)
 
-## Informations
-Icons in the slide are from flaticon
+## Issues
+
+Feel free to report any [issues](https://github.com/Sygmei/LuaTalk/issues) about the talk :)
+
+It could be :
+- Typos in the slides / README
+- Things that are wrong or outdated
+- Suggestions or improvements
+
+## Downloads
+
+- [Source archive](https://raw.githubusercontent.com/Sygmei/LuaTalk/master/source/sources.zip)
+- [Powerpoint presentation](https://raw.githubusercontent.com/Sygmei/LuaTalk/master/slides/presentation_lua_dark.pptx)
+
+## Useful links
+
+- [Official Lua website](https://www.lua.org/)
+- [Test Lua Online](https://www.lua.org/demo.html)
+- [Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
+- [Elias' article about coroutines](https://eliasdaler.github.io/how-to-implement-action-sequences-and-cutscenes/)
+- [ÖbEngine](https://github.com/Sygmei/ObEngine)
+
+## Credits
+
+Talk by @Sygmei
+
+Icons in the slide are from flaticon.
+
+Thanks to Tyler Neylon and his "Lua in 15 minutes" that was a good inspiration.
 
 Special thanks to @EliasDaler for his really cool article about coroutines : https://eliasdaler.github.io/how-to-implement-action-sequences-and-cutscenes/
