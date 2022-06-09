@@ -102,7 +102,7 @@ It could be :
 - Closures
 - Garbage collector
 - __index and __newindex (in details)
-- <const> and <toclose>
+- `<const>` and `<toclose>`
 - C API
 
 ## Credits
