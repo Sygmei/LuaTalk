@@ -96,6 +96,15 @@ It could be :
 - [Elias' article about coroutines](https://eliasdaler.github.io/how-to-implement-action-sequences-and-cutscenes/)
 - [ÖbEngine](https://github.com/Sygmei/ObEngine)
 
+## Next steps
+
+- functions with `_ENV` as parameter
+- Closures
+- Garbage collector
+- __index and __newindex (in details)
+- <const> and <toclose>
+- C API
+
 ## Credits
 
 Talk by @Sygmei
